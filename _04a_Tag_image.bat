@@ -1,0 +1,1 @@
+docker tag container-ninjas:1.0 cloudcomputing0/container-ninjas:1.0

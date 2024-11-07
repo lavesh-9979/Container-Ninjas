@@ -1,1 +1,1 @@
-docker build -t cloud-computing-project .
+docker build -t container-ninjas:1.0 .

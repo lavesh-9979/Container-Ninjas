@@ -8,4 +8,4 @@ if not errorlevel 1 (
     docker rm %CONTAINER_NAME%
 )
 
-docker run -d --name %CONTAINER_NAME% -p 8080:80 cloud-computing-project
+docker run -d --name %CONTAINER_NAME% -p 8080:80 container-ninjas:1.0
